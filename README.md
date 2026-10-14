@@ -17,5 +17,9 @@
 * **Pergunta 2:** Como o Fator de Correção do Ovo impacta na compra de suprimentos do lote de bauruzinhos?
   * *Resposta do Notebook:* "O Fator de Correção (FC) cravado em 1,12 estipula que para cada 195g de peso líquido necessário por batimento, deve-se retirar 218g de ovos brutos do estoque. O cálculo de custos deve incidir sobre o peso bruto adquirido, garantindo a exatidão centesimal do CMV gerencial." (Fonte: *Planilha_Balanceamento_3Batimentos.xlsx*).
 
-## 🔗 Link do Gemini Notebook Compartilhado
-[Acesse o Gemini Notebook Aqui](INSIRA_O_LINK_DO_SEU_NOTEBOOK_COMPARTILHADO)
+## 🔗 Links do Gemini Notebook Compartilhado
+[Acesse o Gemini Notebook Oficial do Projeto Aqui](https://notebook.google.com/notebook/95b32b79-d223-48d7-bdc1-f772407c129d)
+
+[Acesse o Gemini Notebook Quiz Oficial do Projeto Aqui](https://notebooklm.link.google/ihAEQXSPY9mV)
+
+[Acesse o Gemini Notebook Guia de Estudo Oficial do Projeto Aqui](https://notebooklm.link.google/PwW1dVASPLCJ)
